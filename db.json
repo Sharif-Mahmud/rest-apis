@@ -1,8 +1,10 @@
 {
     "users":[
+        {
         "name": "John Doe",
         "email": "john@gmail.com",
-        "age": 25,
+        "age": 25
+        }
     ],
     "posts":[]
 }
